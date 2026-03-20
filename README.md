@@ -31,7 +31,7 @@ Jag använde något som heter Flexbox i CSS för att placera saker bredvid varan
 ## Problem jag stött på
 - Bilden ville inte ladda för att filnamnet var fel
 - Kontaktformuläret fungerar inte när man öppnar filen lokalt, måste läggas upp på internet
-- Har haft problem med att taggar försvunnit när jag kopierat kod
+
 
 ## Vad jag vill lägga till senare
 - Fler projekt när jag gjort sådana
